@@ -1,0 +1,22 @@
+{
+  "name": "prettier-config-sherotree",
+  "version": "0.0.1",
+  "description": "An opinionated prettier configuration for TypeScript and react projects",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "license": "MIT",
+  "author": "sherotree",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sherotree/prettier-config-sherotree.git"
+  },
+  "main": "./index.js",
+  "devDependencies": {
+    "prettier": ">=2"
+  },
+  "peerDependencies": {
+    "prettier": ">=2"
+  }
+}
