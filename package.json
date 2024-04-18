@@ -1,6 +1,6 @@
 {
   "name": "prettier-config-sherotree",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An opinionated prettier configuration for TypeScript and react projects",
   "keywords": [
     "prettier",
@@ -17,6 +17,7 @@
     "prettier": ">=2"
   },
   "peerDependencies": {
-    "prettier": ">=2"
+    "prettier": ">=2",
+    "prettier-plugin-tailwindcss": ">=0.5"
   }
 }
